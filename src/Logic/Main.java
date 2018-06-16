@@ -16,6 +16,7 @@ public class Main {
 
 
         String [] namen  = { "Michiel", "aa"};
+        System.out.println(namen.length);
 
     }
 }
